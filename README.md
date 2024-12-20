@@ -1,2 +1,2 @@
-# contador-de-giros-coin-master
-Contador de giros para el juego Coin Master.
+# Contador de Giros - Coin Master
+Este es un script simple para contar giros en el juego Coin Master. Para más trucos y estrategias, visite [Trucos Coin Master](https://trucoscoinmasters.es).
